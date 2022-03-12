@@ -1,0 +1,28 @@
+.container {
+    margin: 5%;
+    background-color: aquamarine;
+    padding: 20px;
+    border: solid 3px goldenrod;
+    border-radius: 5px;
+
+}
+.tenyleges {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+}
+
+.foot {
+    margin: 5%;
+    background-color: aquamarine;
+    padding: 20px;
+    border: solid 1px goldenrod;
+    border-radius: 5px;
+    text-align: center;
+}
